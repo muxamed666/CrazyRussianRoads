@@ -1,0 +1,99 @@
+/* 
+  strings_ru.strings
+  Crazy Russian Roads
+
+  Created by Muxa Mot on 01.02.2019.
+  Copyright © 2019 Muxa Mot. All rights reserved.
+*/
+
+
+//Ingame notification strings
+"SURVIVE" = "Ваша цель - выжить!";
+"PRICE" = "Спасение подорожало в 10 раз.";
+"ACCELERATED" = "Вы ускорились!";
+"REPAIR_1" = "Для починки наберите ";
+"REPAIR_2" = " очков";
+"REPAIRED" = "Машина отремонтирована!";
+"SPEEDBUMP" = "150 м";
+"SUPERSPEED" = "Больше скорость - меньше ям";
+"GODMODE" = "Неуязвимость!";
+"REPAIR_B" = "Бонусный ремонт!";
+
+//Tutorial
+"TUTORIAL_SWIPE" = "Свайп чтобы перемещаться по дороге";
+"TUTORIAL_TAP" = "Тап чтобы немного сместиться";
+"TUTORIAL_COINS" = "За монеты можно получить машины!";
+"TUTORIAL_OBS" = "Препятсвия могут повредить колеса!";
+
+//view controller localized strings
+"DSVC_REVIVE" = "Вернуться в игру за ";
+"DSVC_POOR" = "Для возрождения не хватает   .  .";
+"STVC_RESET" = "Сбросить";
+"STVC_CANCEL" = "Отмена";
+"STVC_RECORDS" = "Все рекорды будут удалены! Действие нельзя будет отменить!";
+"STVC_GAMEFILE" = "Все игровые данные (включая открытые машины) будут удалены! Это действие нельзя отменить!";
+"ABVC_MESSAGE" = "Вы можете просмотреть рекламный ролик и получить:";
+"ABVC_ACTION" = "Продолжить...";
+"ABVC_ERROR" = "Ошибка при загрузке рекламы. Повторите попытку позднее";
+"ABVC_ERROR_TITLE" = "Ошибка";
+
+//shop view controller
+"SHVC_POINTS" = "Очки: ";
+"SHVC_AVAILABLE" = "Доступно";
+"SHVC_SELECTED" = "Выбрано";
+"SHVC_SELECT" = "Выбрать!";
+"SHVC_UNLOCK" = "Купить!";
+"SHVC_LOCKED" = "Заблокировано";
+"SHVC_CANTAFFORD" = "Не хватает очков!";
+"SHVC_MOREPOINTS" = "Заработайте больше очков в игре, чтобы открыть эту машину!";
+"SHVC_SURE" = "Вы уверены?";
+"SHVC_CANCEL" = "Отменить";
+
+//high score view controller
+"HSVC_NAMEERROR_TILE" = "Имя рекорда";
+"HSVC_NAMEERROR_BODY" = "Некорректное имя рекорда";
+"HSVC_NAMEERROR_EXISTS" = "Это имя рекорда уже используется";
+"HSVC_NONAME" = "Без имени";
+
+//Defeat phrases
+"DEFEAT_1" = "Права купил, а ездить - не купил.";
+"DEFEAT_2" = "Не ездок, а ездец!";
+"DEFEAT_3" = "Надеюсь, у тебя есть страховка...";
+"DEFEAT_4" = "Пешеходы не пострадали.";
+"DEFEAT_5" = "Ну и как там, в канализации?";
+"DEFEAT_6" = "Во всем виноваты дороги!";
+"DEFEAT_7" = "Понапокупают прав...";
+"DEFEAT_STOLB" = "Обнял столб?";
+
+//Regional
+"REGIONAL_KILOMETERS" = "км";
+"REGIONAL_METERS" = "м";
+
+//Cars
+"CARS_CHETVIRKA" = "Четверка";
+"CARS_DEVYATKA" = "Девятка";
+"CARS_VOLGA" = "Баржа";
+"CARS_ZAPOR" = "Запор";
+
+"CARS_CHETVIRKA_CLASSIC" = "Классика";
+"CARS_CHETVIRKA_SKY" = "Небесная";
+"CARS_CHETVIRKA_PEACH" = "Персик";
+"CARS_CHETVIRKA_LEMON" = "Лимонка";
+"CARS_CHETVIRKA_SNOW" = "Снежная";
+
+"CARS_DEVYATKA_GRAY" = "Серая";
+"CARS_DEVYATKA_BEIGE" = "Бежевая";
+"CARS_DEVYATKA_RED" = "Красная";
+"CARS_DEVYATKA_GRAYISH" = "Серая";
+
+"CARS_VOLGA_WHITE" = "Белая";
+"CARS_VOLGA_GREEN" = "Зеленая";
+"CARS_VOLGA_VINO" = "Бордовая";
+"CARS_VOLGA_BLUISH" = "Синеватая";
+"CARS_VOLGA_BLACKY" = "Черненькая";
+
+"CARS_ZAPOR_SIBERIAN" = "Снег";
+"CARS_ZAPOR_YELLOW" = "Желтый";
+"CARS_ZAPOR_BLOODY" = "Кровавый";
+"CARS_ZAPOR_DIRTY" = "Грязный";
+"CARS_ZAPOR_EGGPLANT" = "Баклажан";

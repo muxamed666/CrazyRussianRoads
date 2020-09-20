@@ -1,0 +1,99 @@
+/* 
+  strings_en.strings
+  Crazy Russian Roads
+
+  Created by Muxa Mot on 01.02.2019.
+  Copyright © 2019 Muxa Mot. All rights reserved.
+*/
+
+
+//Ingame notification strings
+"SURVIVE" = "Survive on Russian Road!";
+"PRICE" = "Revive price x10!";
+"ACCELERATED" = "You've got accelerated!";
+"REPAIR_1" = "Reach ";
+"REPAIR_2" = " more points for repair";
+"REPAIRED" = "Car has been repaired";
+"SPEEDBUMP" = "Speedbump ahead";
+"SUPERSPEED" = "More speed - less holes";
+"GODMODE" = "Titan Wheels & Balls";
+"REPAIR_B" = "Bonus repair!";
+
+//Tutorial
+"TUTORIAL_SWIPE" = "Swipe to move the car left or right";
+"TUTORIAL_TAP" = "Or tap to move the car a little";
+"TUTORIAL_COINS" = "Collect coins to unlock new cars!";
+"TUTORIAL_OBS" = "Obstacles can damage one of your wheels!";
+
+//view controller localized strings
+"DSVC_REVIVE" = "Revive for ";
+"DSVC_POOR" = "Revive unavailable. Not enough   .  ."; 
+"STVC_RESET" = "Reset";
+"STVC_CANCEL" = "Cancel";
+"STVC_RECORDS" = "All records will be deleted! This action cannot be undone!";
+"STVC_GAMEFILE" = "All game data (including opened cars!) will be deleted! This action cannot be undone!";
+"ABVC_MESSAGE" = "You can watch the ad and get:";
+"ABVC_ACTION" = "Continue...";
+"ABVC_ERROR" = "Failed to download ad. Try again later.";
+"ABVC_ERROR_TITLE" = "Downloading error";
+
+//shop view controller
+"SHVC_POINTS" = "Points: ";
+"SHVC_AVAILABLE" = "Available";
+"SHVC_SELECTED" = "Selected";
+"SHVC_SELECT" = "Select!";
+"SHVC_UNLOCK" = "Unlock!";
+"SHVC_LOCKED" = "Locked";
+"SHVC_CANTAFFORD" = "You cant afford it!";
+"SHVC_MOREPOINTS" = "Earn more score points in game, to buy this car.";
+"SHVC_SURE" = "Are you sure?";
+"SHVC_CANCEL" = "Cancel";
+
+//high score view controller
+"HSVC_NAMEERROR_TILE" = "High score name";
+"HSVC_NAMEERROR_BODY" = "Incorrect name";
+"HSVC_NAMEERROR_EXISTS" = "This record name is already in use";
+"HSVC_NONAME" = "No Name";
+
+//Defeat phrases
+"DEFEAT_1" = "Game Over!";
+"DEFEAT_2" = "Hit'n'run?";
+"DEFEAT_3" = "This car now looks like back end of a bus";
+"DEFEAT_4" = "Drive like road hog? Not big surprise.";
+"DEFEAT_5" = "Thats why we use dash cams here!";
+"DEFEAT_6" = "Uh oh. I hope you have insurance.";
+"DEFEAT_7" = "Faul and a miss =(";
+"DEFEAT_STOLB" = "Hugged the lamppost?";
+
+//Regional
+"REGIONAL_KILOMETERS" = "km";
+"REGIONAL_METERS" = "m";
+
+//Cars
+"CARS_CHETVIRKA" = "Chetvirka";
+"CARS_DEVYATKA" = "Devyatka";
+"CARS_VOLGA" = "Volga";
+"CARS_ZAPOR" = "Zapor";
+
+"CARS_CHETVIRKA_CLASSIC" = "Classic";
+"CARS_CHETVIRKA_SKY" = "Sky";
+"CARS_CHETVIRKA_PEACH" = "Peach";
+"CARS_CHETVIRKA_LEMON" = "Lemon";
+"CARS_CHETVIRKA_SNOW" = "Snow";
+
+"CARS_DEVYATKA_GRAY" = "Gray";
+"CARS_DEVYATKA_BEIGE" = "Beige";
+"CARS_DEVYATKA_RED" = "Red";
+"CARS_DEVYATKA_GRAYISH" = "Grayish";
+
+"CARS_VOLGA_WHITE" = "White";
+"CARS_VOLGA_GREEN" = "Green";
+"CARS_VOLGA_VINO" = "Vino";
+"CARS_VOLGA_BLUISH" = "Bluish";
+"CARS_VOLGA_BLACKY" = "Blacky";
+
+"CARS_ZAPOR_SIBERIAN" = "Siberian";
+"CARS_ZAPOR_YELLOW" = "Yellow";
+"CARS_ZAPOR_BLOODY" = "Bloody";
+"CARS_ZAPOR_DIRTY" = "Dirty";
+"CARS_ZAPOR_EGGPLANT" = "Eggplant";
